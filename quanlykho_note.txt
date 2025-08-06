@@ -1,6 +1,6 @@
 Hệ thống WMS hoàn chỉnh đã được thiết kế!
 📋 Tổng kết các tính năng chính:
-🔥 Core Modules (Cơ bản):
+🔥 Core Modules (Cơ bản): 
 
 ✅ Quản lý người dùng & phân quyền linh hoạt
 ✅ Multi-warehouse với zones/locations phân cấp
