@@ -1,1 +1,2 @@
-# quan-ly-kho-hang-frontend-use-vuejs-element-plus
+Frontend dùng vue 3 kết hợp thư viện element plus
+npm run dev để chạy
